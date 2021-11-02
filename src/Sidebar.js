@@ -68,8 +68,3 @@ function Sidebar() {
 
 export default Sidebar;
 
-{/*const style = { color: "white", fontSize: "1.5em" }
-<FaFacebookF style={style} />
-
-// API
-<FaFacebookF color="white" fontSize="1.5em" />*/}

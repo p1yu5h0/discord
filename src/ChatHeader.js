@@ -3,11 +3,12 @@ import { AiOutlineSearch } from 'react-icons/ai'
 import { IoMdNotificationsOutline } from 'react-icons/io'
 import { MdEditLocation, MdOutlinePeopleAlt } from 'react-icons/md'
 import { BiSend, BiHelpCircle} from 'react-icons/bi'
+import "./ChatHeader.css"
+
 
 function ChatHeader() {
     return (
         <div className="chatHeader">
-            <h3>I am the Header.</h3>
             <div className="chatHeader__left">
                 <h3>
                     <span className="chatHeader__hash">
@@ -18,17 +19,17 @@ function ChatHeader() {
             </div>
 
             <div className="chatHeader__right">
-                <IoMdNotificationsOutline/>
-                <MdEditLocation/>
-                <MdOutlinePeopleAlt/>
+                <IoMdNotificationsOutline className="Icons"/>
+                <MdEditLocation className="Icons"/>
+                <MdOutlinePeopleAlt className="Icons"/>
 
                 <div className="chatHeader__search">
-                    <input placeholderSearch="Search" />
-                    <AiOutlineSearch />
+                    <input placeholder="Search" />
+                    <AiOutlineSearch className="Icons"/>
                 </div>
 
-                <BiSend/>
-                <BiHelpCircle/>
+                <BiSend className="Icons"/>
+                <BiHelpCircle className="Icons"/>
             </div>
         </div>
     )

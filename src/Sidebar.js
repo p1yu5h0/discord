@@ -14,7 +14,6 @@ import { IoMdSettings } from "react-icons/io";
 import Avatar from 'react-avatar';
 
 
-
 function Sidebar() {
     return (
         <div className="sidebar">
@@ -45,8 +44,8 @@ function Sidebar() {
                     <p>Stream</p>
                 </div>
                 <div className="sidebar__voiceIcons">
-                    <AiOutlineInfoCircle className="profile_icons"/>
-                    <IoMdCall className="profile_icons"/>
+                    <AiOutlineInfoCircle className="profile_icons_other"/>
+                    <IoMdCall className="profile_icons_other"/>
                 </div>
             </div>
             <div className="sidebar__profile">

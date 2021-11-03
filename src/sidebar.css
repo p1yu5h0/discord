@@ -90,6 +90,14 @@
     flex-direction: row;
     padding-right: 5px;
     margin: 10px;
+    font-size: large;
+}
+
+.sidebar__profileIcons_other{
+    display: flex;
+    flex-direction: row;
+    padding-right: 5px;
+    margin: 10px;
     font-size: x-large;
 }
 

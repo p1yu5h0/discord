@@ -2,18 +2,19 @@ import React from 'react'
 import Avatar from 'react-avatar'
 import "./Message.css"
 
-function Message() {
+function Message({timestamp, user, message}) {
     return (
         <div className="message">
-            <Avatar size="40px" round="20px" src="https://avatars.githubusercontent.com/u/74711555?v=4"/>
+            <Avatar size="40px" round="20px" src={user.photo}/>
             <div className="message__info">
                 <h4>
-                    Piyush
-                    <span className="message__timestamp">this is a timestamp
+                    {user.displayName}
+                    <span className="message__timestamp">
+                        {new Date(timestamp?.toDate()).toUTCString()}
                     </span>
                 </h4>
 
-                <p>This is a message</p>
+                <p>{message}</p>
             </div>
         </div>
     )

@@ -50,3 +50,7 @@
     cursor: pointer;
 }
 
+.chatHeader__hash{
+    color: rgb(184, 180, 180);
+    padding-right: 5px;
+}

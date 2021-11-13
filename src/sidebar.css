@@ -93,6 +93,10 @@
     font-size: large;
 }
 
+.avatar_pic:hover{
+    cursor: pointer;
+}
+
 .sidebar__profileIcons_other{
     display: flex;
     flex-direction: row;

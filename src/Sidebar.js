@@ -10,11 +10,12 @@ import { AiOutlineInfoCircle } from "react-icons/ai";
 import { BsMicFill } from "react-icons/bs";
 import { IoMdHeadset } from "react-icons/io";
 import { IoMdSettings } from "react-icons/io";
-
 import Avatar from 'react-avatar';
-
+import { useSelector } from "react-redux";
+import {selectUser} from "./features/userSlice"
 
 function Sidebar() {
+    const user = useSelector(selectUser);
     return (
         <div className="sidebar">
             <div className="sidebar__top">
@@ -49,10 +50,10 @@ function Sidebar() {
                 </div>
             </div>
             <div className="sidebar__profile">
-                <Avatar size="30px" round="20px" src="https://avatars.githubusercontent.com/u/74711555?v=4"/>
+                <Avatar size="30px" round="20px" src={user.photo} />
                 <div className="sidebar__profileInfo">
-                    <h3>@p1yu5h0</h3>
-                    <p>#696969</p>
+                    <h3>{user.displayName}</h3>
+                    <p>#{user.uid.substring(0,5)}</p>
                 </div>
 
                 <div className="sidebar__profileIcons">

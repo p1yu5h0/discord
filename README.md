@@ -62,7 +62,7 @@ It took me around 2 weeks to complete this simple version of Discord in which I 
 
 
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -77,7 +77,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -124,7 +124,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://github.com/p1yu5h0/discord)_
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://github.com/p1yu5
 - [x] Write some code.
 - [x] Deploy the project with the help of FireBase.
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -156,7 +156,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -165,7 +165,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the Apache License 2.0. See `LICENSE.txt` for more information.
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -178,7 +178,7 @@ Project Link: [https://discord-clone-652ad.firebaseapp.com/](https://discord-clo
 
 GitHub Link: [https://github.com/p1yu5h0/discord](https://github.com/p1yu5h0/discord)
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -192,5 +192,5 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 

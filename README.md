@@ -68,8 +68,6 @@ It took me around 2 weeks to complete this simple version of Discord in which I 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Redux.js](https://redux.js.org/)
 * [React.js](https://reactjs.org/)
 * [Firebase](https://firebase.google.com/)

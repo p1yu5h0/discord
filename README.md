@@ -172,7 +172,7 @@ Distributed under the Apache License 2.0. See `LICENSE.txt` for more information
 
 Your Name - [Piyush Agrawal](https://www.linkedin.com/in/p1yu5h0/) - piyush200205@gmail.com
 
-Project Link: [https://discord-clone-652ad.firebaseapp.com/](https://discord-clone-652ad.firebaseapp.com/)
+Project Link: [https://piyush-discord.netlify.app/](https://piyush-discord.netlify.app/)
 
 GitHub Link: [https://github.com/p1yu5h0/discord](https://github.com/p1yu5h0/discord)
 

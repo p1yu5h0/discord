@@ -74,6 +74,7 @@ It took me around 2 weeks to complete this simple version of Discord in which I 
 * [Material UI](https://mui.com/)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [NodeJS](https://nodejs.org/en/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
